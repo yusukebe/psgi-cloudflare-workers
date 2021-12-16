@@ -56,6 +56,6 @@ GET /api?message=hello
 
 Yusuke Wada <https://github.com/yusukebe>
 
-## LISENCE
+## LICENSE
 
 MIT
