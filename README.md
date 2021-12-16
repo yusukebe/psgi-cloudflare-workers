@@ -59,7 +59,3 @@ Yusuke Wada <https://github.com/yusukebe>
 ## LISENCE
 
 MIT
-
-```
-
-```
