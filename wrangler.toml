@@ -1,0 +1,7 @@
+name = "psgi-cloudflare-workers"
+type = "javascript"
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2021-12-15"
